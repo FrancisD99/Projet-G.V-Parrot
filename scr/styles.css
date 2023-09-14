@@ -55,7 +55,7 @@ li{
 .nav{
     height: 85vh;
     width: 100%;
-    background: linear-gradient(rgba(32,3,3,0.602),rgba(32,3,3,0.52)), url(/images/baniere.jpg) center/cover;
+    background: linear-gradient(rgba(32,3,3,0.602),rgba(32,3,3,0.52)), url(./images/baniere.jpg) center/cover;
 }
 
 .menu {
